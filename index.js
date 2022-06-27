@@ -5,11 +5,11 @@ let number2 = parseInt (prompt('Input Second Number'));
 
 
 if(operator ==="+"){
-    Alert(number1 + number2)
+    alert(number1 + number2)
 }else if (operator === "-"){
-    Alert(number1 - number2)
+    alert(number1 - number2)
 }else if (operator === "*"){
-    Alert (number1 * number2)
+    alert (number1 * number2)
 }else if (operator === "/"){
-    Alert(number1 / number2)
+    alert(number1 / number2)
 }
